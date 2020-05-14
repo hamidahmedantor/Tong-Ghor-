@@ -16,4 +16,4 @@ function close()
 
 
 navbtn.addEventListener("click",add);
-navclose.addEventListener("click",close);# Tong-Ghor
+navclose.addEventListener("click",close);
